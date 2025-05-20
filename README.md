@@ -1,11 +1,8 @@
 # Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
-
 ### Date: 08-05-25
-
 ### Register no: 212222230008
 
 ## Aim:
-
 To perform the Exploration of Prompting Techniques for Video Generation
 
 # Algorithm / Procedure:
@@ -56,11 +53,8 @@ This yielded more expressive visuals with additional environmental elements.
 ### 8. Save and Compare Outputs:
  * Saved each generated video and compared the effects of prompt structure, tone, and detail on the final video.
 ---
-
-
 ## Output:
 <img src="https://github.com/user-attachments/assets/004d1050-e7f1-48de-8fbd-a46f54b9621f" width=65%>
 
 # Result:
-
 The Prompt of the above task is executed successfully.
